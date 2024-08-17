@@ -2,7 +2,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "log",
     "name": { "str": "log" },
@@ -11,7 +11,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "cig_butt",
     "name": { "str": "cigarette butt" },
@@ -20,7 +20,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "pine_bough",
     "name": { "str": "pine bough" },
@@ -29,7 +29,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "twig",
     "name": { "str": "twig" },
@@ -38,7 +38,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "withered",
     "name": { "str": "withered plant" },
@@ -47,7 +47,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "old_key",
     "name": { "str": "key" },
@@ -56,7 +56,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "razor_blade",
     "name": { "str": "razor blade" },
@@ -65,7 +65,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "scorecard",
     "name": { "str": "score card" },
@@ -74,7 +74,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "comb_pocket",
     "name": { "str": "comb" },
@@ -83,7 +83,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "ceramic_shard",
     "name": { "str": "ceramic shard" },
@@ -92,7 +92,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "tanbark",
     "name": { "str": "piece of tanbark" },
@@ -101,7 +101,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "birchbark",
     "name": { "str": "piece of birchbark" },
@@ -110,7 +110,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "willowbark",
     "name": { "str": "piece of willowbark" },
@@ -119,7 +119,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "alder_bark",
     "name": { "str": "piece of alder bark" },
@@ -128,7 +128,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "swimming_kickboard",
     "name": { "str": "swimming kickboard" },
@@ -137,7 +137,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "shuttlecock",
     "name": { "str": "badminton shuttlecock" },
@@ -146,7 +146,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "golf_tee",
     "name": { "str": "golf tee" },
@@ -155,7 +155,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "golf_ball",
     "name": { "str": "golf ball" },
@@ -164,7 +164,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "bowling_ball",
     "name": { "str": "bowling ball" },
@@ -173,7 +173,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "football",
     "name": { "str": "football" },
@@ -182,7 +182,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "basketball",
     "name": { "str": "basketball" },
@@ -191,7 +191,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "indoor_volleyball",
     "name": { "str": "volleyball" },
@@ -200,7 +200,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "beach_volleyball",
     "name": { "str": "beach volleyball" },
@@ -209,7 +209,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "puck",
     "name": { "str": "hockey puck" },
@@ -218,7 +218,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "mannequin",
     "name": { "str": "mannequin" },
@@ -227,7 +227,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "tin_plate",
     "name": { "str": "tin plate" },
@@ -236,7 +236,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "glass_plate",
     "name": { "str": "glass plate" },
@@ -245,7 +245,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "plastic_plate",
     "name": { "str": "plastic plate" },
@@ -254,7 +254,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "fork",
     "name": { "str": "fork" },
@@ -263,7 +263,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "plastic_fork",
     "name": { "str": "plastic fork" },
@@ -272,7 +272,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "spoon",
     "name": { "str": "spoon" },
@@ -281,7 +281,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "plastic_spoon",
     "name": { "str": "plastic spoon" },
@@ -290,7 +290,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "plastic_spoon_kids",
     "name": { "str": "kiddie spoon" },
@@ -299,7 +299,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "knife_butter",
     "name": { "str": "butter knife" },
@@ -308,7 +308,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "plastic_knife",
     "name": { "str": "plastic knife" },
@@ -317,7 +317,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "plastic_straw",
     "name": { "str": "plastic straw" },
@@ -326,7 +326,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "corkscrew",
     "name": { "str": "corkscrew" },
@@ -335,7 +335,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "peeler",
     "name": { "str": "vegetable peeler" },
@@ -344,7 +344,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "bottle_opener",
     "name": { "str": "bottle opener" },
@@ -353,7 +353,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "foon",
     "name": { "str": "foon" },
@@ -362,7 +362,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "chopsticks",
     "name": { "str": "chopsticks" },
@@ -371,7 +371,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "whisk",
     "name": { "str": "whisk" },
@@ -380,7 +380,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "potato_masher",
     "name": { "str": "potato masher" },
@@ -389,7 +389,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "garlic_press",
     "name": { "str": "garlic press" },
@@ -398,7 +398,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "can_opener",
     "name": { "str": "can opener" },
@@ -407,7 +407,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "carving_fork",
     "name": { "str": "carving fork" },
@@ -416,7 +416,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "spatula",
     "name": { "str": "spatula" },
@@ -425,7 +425,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "rolling_pin",
     "name": { "str": "rolling pin" },
@@ -434,7 +434,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "splatter_guard",
     "name": { "str": "splatter guard" },
@@ -443,7 +443,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "cutting_board",
     "name": { "str": "cutting board" },
@@ -452,7 +452,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "pizza_cutter",
     "name": { "str": "pizza cutter" },
@@ -461,7 +461,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "icecream_scoop",
     "name": { "str": "icecream scoop" },
@@ -470,7 +470,7 @@
   {
     "type": "AMMO",
     "ammo_type": "components",
-    "catagory": "other",
+    "category": "other",
 
     "id": "cheese_grater",
     "name": { "str": "cheese grater" },
