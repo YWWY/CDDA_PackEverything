@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ywwy_pack_abstrack",
+
+    "type": "AMMO",
+    "ammo_type": "components",
+    "stack_size": 200,
+    "category": "other",
+
+    "name": { "str": "ywwy_pack_abstrack", "str_pl": "ywwy_pack_abstrack" },
+    "description": "ywwy_pack_abstrack",
+    "//": "TODO: should be sum of components",
+    "volume": "1 ml",
+    "weight": "1 g",
+    "longest_side": "1 cm",
+    "price": "1 USD",
+    "price_postapoc": "1 USD",
+    "symbol": "H",
+    "color": "light_red"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_glass_shard",
+    "name": { "str": "ywwy_pack_glass_shard", "str_pl": "ywwy_pack_glass_shard" },
+    "description": "ywwy_pack_glass_shard",
+    "copy-from": "ywwy_pack_abstrack"
+  }
+]

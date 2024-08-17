@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "YWWY_PackEverything",
+    "name": "YWWY PackEverything",
+    "authors": [ "YWWY" ],
+    "maintainers": [ "YWWY" ],
+    "description": "",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
