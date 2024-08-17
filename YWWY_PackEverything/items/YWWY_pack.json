@@ -4,10 +4,9 @@
 
     "type": "AMMO",
     "ammo_type": "components",
-    "stack_size": 200,
     "category": "other",
 
-    "name": { "str": "ywwy_pack_abstrack", "str_pl": "ywwy_pack_abstrack" },
+    "name": { "str": "ywwy_pack_abstrack" },
     "description": "ywwy_pack_abstrack",
     "//": "TODO: should be sum of components",
     "volume": "1 ml",
@@ -23,8 +22,31 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_glass_shard",
-    "name": { "str": "ywwy_pack_glass_shard", "str_pl": "ywwy_pack_glass_shard" },
-    "description": "ywwy_pack_glass_shard",
+    "name": { "str": "ywwy玻璃碎片包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_splinter",
+    "name": { "str": "ywwy碎木包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_bone",
+    "name": { "str": "ywwy骨头包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_wild_herbs",
+    "name": { "str": "ywwy野生草药包" },
     "copy-from": "ywwy_pack_abstrack"
   }
 ]

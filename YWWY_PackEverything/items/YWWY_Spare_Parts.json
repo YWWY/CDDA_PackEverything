@@ -1,0 +1,26 @@
+[
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "hinge",
+    "name": { "str": "hinge" },
+    "copy-from": "hinge"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "2x4",
+    "name": { "str": "plank" },
+    "copy-from": "2x4"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "e_scrap",
+    "name": { "str": "electronic scrap" },
+    "copy-from": "e_scrap"
+  }
+]

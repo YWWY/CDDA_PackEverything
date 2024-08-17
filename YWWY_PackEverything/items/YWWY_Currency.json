@@ -1,0 +1,345 @@
+[
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		
+		"id": "FMCNote",
+		"name": {
+			"str": "merch"
+		},
+		"copy-from": "FMCNote"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "RobofacCoin",
+		"name": {
+			"str": "Hub 01 Gold Coin"
+		},
+		"copy-from": "RobofacCoin"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "FlatCoin",
+		"name": {
+			"str": "FlatCoin"
+		},
+		"copy-from": "FlatCoin"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "signed_chit",
+		"name": {
+			"str": "chit"
+		},
+		"copy-from": "signed_chit"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "icon",
+		"name": {
+			"str": "icon"
+		},
+		"copy-from": "icon"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "coin_penny",
+		"name": {
+			"str": "penny"
+		},
+		"copy-from": "coin_penny"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "coin_nickel",
+		"name": {
+			"str": "nickel"
+		},
+		"copy-from": "coin_nickel"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "coin_dime",
+		"name": {
+			"str": "dime"
+		},
+		"copy-from": "coin_dime"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "coin_quarter",
+		"name": {
+			"str": "quarter"
+		},
+		"copy-from": "coin_quarter"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "coin_half_dollar",
+		"name": {
+			"str": "half-dollar coin"
+		},
+		"copy-from": "coin_half_dollar"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "coin_dollar",
+		"name": {
+			"str": "dollar coin"
+		},
+		"copy-from": "coin_dollar"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "coin_silver",
+		"name": {
+			"str": "Silver Eagle coin"
+		},
+		"copy-from": "coin_silver"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "coin_gold",
+		"name": {
+			"str": "American Buffalo coin"
+		},
+		"copy-from": "coin_gold"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "coin_wrapper",
+		"name": {
+			"str": "coin wrapper"
+		},
+		"copy-from": "coin_wrapper"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_one",
+		"name": {
+			"str": "one-dollar bill"
+		},
+		"copy-from": "money_one"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_two",
+		"name": {
+			"str": "two-dollar bill"
+		},
+		"copy-from": "money_two"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_five",
+		"name": {
+			"str": "five-dollar bill"
+		},
+		"copy-from": "money_five"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_ten",
+		"name": {
+			"str": "ten-dollar bill"
+		},
+		"copy-from": "money_ten"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_twenty",
+		"name": {
+			"str": "twenty-dollar bill"
+		},
+		"copy-from": "money_twenty"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_fifty",
+		"name": {
+			"str": "fifty-dollar bill"
+		},
+		"copy-from": "money_fifty"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_hundred",
+		"name": {
+			"str": "hundred-dollar bill"
+		},
+		"copy-from": "money_hundred"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_strap_one",
+		"name": {
+			"str": "one-dollar currency strap"
+		},
+		"copy-from": "money_strap_one"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_strap_two",
+		"name": {
+			"str": "two-dollar currency strap"
+		},
+		"copy-from": "money_strap_two"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_strap_five",
+		"name": {
+			"str": "five-dollar currency strap"
+		},
+		"copy-from": "money_strap_five"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_strap_ten",
+		"name": {
+			"str": "ten-dollar currency strap"
+		},
+		"copy-from": "money_strap_ten"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_strap_twenty",
+		"name": {
+			"str": "twenty-dollar currency strap"
+		},
+		"copy-from": "money_strap_twenty"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_strap_fifty",
+		"name": {
+			"str": "fifty-dollar currency strap"
+		},
+		"copy-from": "money_strap_fifty"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_strap_hundred",
+		"name": {
+			"str": "hundred-dollar currency strap"
+		},
+		"copy-from": "money_strap_hundred"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_strap_FMCNote",
+		"name": {
+			"str": "merch currency strap"
+		},
+		"copy-from": "money_strap_FMCNote"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_bundle_one",
+		"name": {
+			"str": "one-dollar currency bundle"
+		},
+		"copy-from": "money_bundle_one"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_bundle_two",
+		"name": {
+			"str": "two-dollar currency bundle"
+		},
+		"copy-from": "money_bundle_two"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_bundle_five",
+		"name": {
+			"str": "five-dollar currency bundle"
+		},
+		"copy-from": "money_bundle_five"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_bundle_ten",
+		"name": {
+			"str": "ten-dollar currency bundle"
+		},
+		"copy-from": "money_bundle_ten"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_bundle_twenty",
+		"name": {
+			"str": "twenty-dollar currency bundle"
+		},
+		"copy-from": "money_bundle_twenty"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_bundle_fifty",
+		"name": {
+			"str": "fifty-dollar currency bundle"
+		},
+		"copy-from": "money_bundle_fifty"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_bundle_hundred",
+		"name": {
+			"str": "hundred-dollar currency bundle"
+		},
+		"copy-from": "money_bundle_hundred"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "money_bundle_FMCNote",
+		"name": {
+			"str": "merch currency bundle"
+		},
+		"copy-from": "money_bundle_FMCNote"
+	},
+	{
+		"type": "AMMO",
+		"ammo_type": "components",
+		"id": "tacoma_drink_token",
+		"name": {
+			"str": "Tacoma drink token"
+		},
+		"copy-from": "tacoma_drink_token"
+	}
+]

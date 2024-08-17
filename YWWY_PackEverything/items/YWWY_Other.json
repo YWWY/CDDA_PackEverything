@@ -1,0 +1,426 @@
+[
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "log",
+    "name": { "str": "log" },
+    "copy-from": "log"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "cig_butt",
+    "name": { "str": "cigarette butt" },
+    "copy-from": "cig_butt"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "pine_bough",
+    "name": { "str": "pine bough" },
+    "copy-from": "pine_bough"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "twig",
+    "name": { "str": "twig" },
+    "copy-from": "twig"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "withered",
+    "name": { "str": "withered plant" },
+    "copy-from": "withered"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "old_key",
+    "name": { "str": "key" },
+    "copy-from": "old_key"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "razor_blade",
+    "name": { "str": "razor blade" },
+    "copy-from": "razor_blade"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "scorecard",
+    "name": { "str": "score card" },
+    "copy-from": "scorecard"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "comb_pocket",
+    "name": { "str": "comb" },
+    "copy-from": "comb_pocket"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ceramic_shard",
+    "name": { "str": "ceramic shard" },
+    "copy-from": "ceramic_shard"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "tanbark",
+    "name": { "str": "piece of tanbark" },
+    "copy-from": "tanbark"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "birchbark",
+    "name": { "str": "piece of birchbark" },
+    "copy-from": "birchbark"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "willowbark",
+    "name": { "str": "piece of willowbark" },
+    "copy-from": "willowbark"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "alder_bark",
+    "name": { "str": "piece of alder bark" },
+    "copy-from": "alder_bark"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "swimming_kickboard",
+    "name": { "str": "swimming kickboard" },
+    "copy-from": "swimming_kickboard"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "shuttlecock",
+    "name": { "str": "badminton shuttlecock" },
+    "copy-from": "shuttlecock"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "golf_tee",
+    "name": { "str": "golf tee" },
+    "copy-from": "golf_tee"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "golf_ball",
+    "name": { "str": "golf ball" },
+    "copy-from": "golf_ball"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "bowling_ball",
+    "name": { "str": "bowling ball" },
+    "copy-from": "bowling_ball"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "football",
+    "name": { "str": "football" },
+    "copy-from": "football"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "basketball",
+    "name": { "str": "basketball" },
+    "copy-from": "basketball"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "indoor_volleyball",
+    "name": { "str": "volleyball" },
+    "copy-from": "indoor_volleyball"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "beach_volleyball",
+    "name": { "str": "beach volleyball" },
+    "copy-from": "beach_volleyball"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "puck",
+    "name": { "str": "hockey puck" },
+    "copy-from": "puck"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "mannequin",
+    "name": { "str": "mannequin" },
+    "copy-from": "mannequin"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "tin_plate",
+    "name": { "str": "tin plate" },
+    "copy-from": "tin_plate"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "glass_plate",
+    "name": { "str": "glass plate" },
+    "copy-from": "glass_plate"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "plastic_plate",
+    "name": { "str": "plastic plate" },
+    "copy-from": "plastic_plate"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "fork",
+    "name": { "str": "fork" },
+    "copy-from": "fork"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "plastic_fork",
+    "name": { "str": "plastic fork" },
+    "copy-from": "plastic_fork"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "spoon",
+    "name": { "str": "spoon" },
+    "copy-from": "spoon"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "plastic_spoon",
+    "name": { "str": "plastic spoon" },
+    "copy-from": "plastic_spoon"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "plastic_spoon_kids",
+    "name": { "str": "kiddie spoon" },
+    "copy-from": "plastic_spoon_kids"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "knife_butter",
+    "name": { "str": "butter knife" },
+    "copy-from": "knife_butter"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "plastic_knife",
+    "name": { "str": "plastic knife" },
+    "copy-from": "plastic_knife"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "plastic_straw",
+    "name": { "str": "plastic straw" },
+    "copy-from": "plastic_straw"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "corkscrew",
+    "name": { "str": "corkscrew" },
+    "copy-from": "corkscrew"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "peeler",
+    "name": { "str": "vegetable peeler" },
+    "copy-from": "peeler"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "bottle_opener",
+    "name": { "str": "bottle opener" },
+    "copy-from": "bottle_opener"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "foon",
+    "name": { "str": "foon" },
+    "copy-from": "foon"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "chopsticks",
+    "name": { "str": "chopsticks" },
+    "copy-from": "chopsticks"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "whisk",
+    "name": { "str": "whisk" },
+    "copy-from": "whisk"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "potato_masher",
+    "name": { "str": "potato masher" },
+    "copy-from": "potato_masher"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "garlic_press",
+    "name": { "str": "garlic press" },
+    "copy-from": "garlic_press"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "can_opener",
+    "name": { "str": "can opener" },
+    "copy-from": "can_opener"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "carving_fork",
+    "name": { "str": "carving fork" },
+    "copy-from": "carving_fork"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "spatula",
+    "name": { "str": "spatula" },
+    "copy-from": "spatula"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "rolling_pin",
+    "name": { "str": "rolling pin" },
+    "copy-from": "rolling_pin"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "splatter_guard",
+    "name": { "str": "splatter guard" },
+    "copy-from": "splatter_guard"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "cutting_board",
+    "name": { "str": "cutting board" },
+    "copy-from": "cutting_board"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "pizza_cutter",
+    "name": { "str": "pizza cutter" },
+    "copy-from": "pizza_cutter"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "icecream_scoop",
+    "name": { "str": "icecream scoop" },
+    "copy-from": "icecream_scoop"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "cheese_grater",
+    "name": { "str": "cheese grater" },
+    "copy-from": "cheese_grater"
+  }
+]
