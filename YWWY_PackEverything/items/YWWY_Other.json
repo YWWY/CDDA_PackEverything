@@ -31,6 +31,15 @@
     "ammo_type": "components",
     "category": "other",
 
+    "id": "pinecone",
+    "name": { "str": "pinecone" },
+    "copy-from": "pinecone"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
     "id": "twig",
     "name": { "str": "twig" },
     "copy-from": "twig"
@@ -475,5 +484,59 @@
     "id": "cheese_grater",
     "name": { "str": "cheese grater" },
     "copy-from": "cheese_grater"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "cannabis",
+    "name": { "str": "cannabis plant" },
+    "copy-from": "cannabis"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "ruler",
+    "name": { "str": "ruler" },
+    "copy-from": "ruler"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "eraser",
+    "name": { "str": "eraser" },
+    "copy-from": "eraser"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "sharpener",
+    "name": { "str": "pencil sharpener" },
+    "copy-from": "sharpener"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "fp_loyalty_card",
+    "name": { "str": "Foodplace loyalty card" },
+    "copy-from": "fp_loyalty_card"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "wallet_photo",
+    "name": { "str": "photograph" },
+    "copy-from": "wallet_photo"
   }
 ]

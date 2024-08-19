@@ -1,0 +1,20 @@
+[
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "books",
+
+    "id": "flyer",
+    "name": { "str": "flyer" },
+    "copy-from": "flyer"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "books",
+
+    "id": "file",
+    "name": { "str": "file" },
+    "copy-from": "file"
+  }
+]

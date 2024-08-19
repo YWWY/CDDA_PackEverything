@@ -19,6 +19,14 @@
     "type": "AMMO",
     "ammo_type": "components",
 
+    "id": "wood_block",
+    "name": { "str": "small wood block" },
+    "copy-from": "wood_block"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
     "id": "e_scrap",
     "name": { "str": "electronic scrap" },
     "copy-from": "e_scrap"

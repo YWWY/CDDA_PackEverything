@@ -48,5 +48,13 @@
     "id": "ywwy_pack_wild_herbs",
     "name": { "str": "ywwy野生草药包" },
     "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_bone_tainted",
+    "name": { "str": "ywwy感染骨头包" },
+    "copy-from": "ywwy_pack_abstrack"
   }
 ]
