@@ -45,6 +45,14 @@
     "type": "AMMO",
     "ammo_type": "components",
 
+    "id": "ywwy_pack_bone_human",
+    "name": { "str": "ywwy人骨包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
     "id": "ywwy_pack_wild_herbs",
     "name": { "str": "ywwy野生草药包" },
     "copy-from": "ywwy_pack_abstrack"
@@ -55,6 +63,70 @@
 
     "id": "ywwy_pack_bone_tainted",
     "name": { "str": "ywwy感染骨头包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_protein_bar_evac",
+    "name": { "str": "ywwy蛋白口粮包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_adhesive_bandages",
+    "name": { "str": "ywwy创可贴包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_medical_gauze",
+    "name": { "str": "ywwy医用纱布包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_bandages",
+    "name": { "str": "ywwy绷带包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_aspirin",
+    "name": { "str": "ywwy阿司匹林包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_ibuprofen",
+    "name": { "str": "ywwy布洛芬包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_acetaminophen",
+    "name": { "str": "ywwy对乙酰氨基酚包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_straw_pile",
+    "name": { "str": "ywwy稻草堆包" },
     "copy-from": "ywwy_pack_abstrack"
   }
 ]

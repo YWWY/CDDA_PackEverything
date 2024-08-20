@@ -30,5 +30,13 @@
     "id": "e_scrap",
     "name": { "str": "electronic scrap" },
     "copy-from": "e_scrap"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "cardboard",
+    "name": { "str": "piece of cardboard" },
+    "copy-from": "cardboard"
   }
 ]

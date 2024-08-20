@@ -538,5 +538,41 @@
     "id": "wallet_photo",
     "name": { "str": "photograph" },
     "copy-from": "wallet_photo"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "plunger_futuristic",
+    "name": { "str": "professional plunger" },
+    "copy-from": "plunger_futuristic"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "toilet_paper",
+    "name": { "str": "toilet paper" },
+    "copy-from": "toilet_paper"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "brush_toilet",
+    "name": { "str": "toilet brush" },
+    "copy-from": "brush_toilet"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "soap_holder",
+    "name": { "str": "soap dish" },
+    "copy-from": "soap_holder"
   }
 ]

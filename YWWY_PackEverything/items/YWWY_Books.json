@@ -16,5 +16,14 @@
     "id": "file",
     "name": { "str": "file" },
     "copy-from": "file"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "books",
+
+    "id": "evac_pamphlet",
+    "name": { "str": "FEMA evacuation pamphlet" },
+    "copy-from": "evac_pamphlet"
   }
 ]

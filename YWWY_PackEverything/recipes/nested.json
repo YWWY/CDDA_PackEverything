@@ -13,8 +13,30 @@
       "ywwy_pack_glass_shard",
       "ywwy_pack_splinter",
       "ywwy_pack_bone",
+      "ywwy_pack_bone_human",
       "ywwy_pack_wild_herbs",
-      "ywwy_pack_bone_tainted"
+      "ywwy_pack_straw_pile",
+      "ywwy_pack_bone_tainted",
+      "ywwy_pack_protein_bar_evac"
+    ]
+  },
+  {
+    "id": "ywwy_med_pack",
+    "type": "nested_category",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "name": "ywwy med pack",
+    "description": "ywwy med pack.",
+    "skill_used": "fabrication",
+    "difficulty": 0,
+    "nested_category_data": [
+      "ywwy_pack_adhesive_bandages",
+      "ywwy_pack_medical_gauze",
+      "ywwy_pack_bandages",
+      "ywwy_pack_aspirin",
+      "ywwy_pack_ibuprofen",
+      "ywwy_pack_acetaminophen"
     ]
   }
 ]
