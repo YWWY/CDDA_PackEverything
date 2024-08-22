@@ -574,5 +574,23 @@
     "id": "soap_holder",
     "name": { "str": "soap dish" },
     "copy-from": "soap_holder"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "string_floss",
+    "name": { "str": "dental floss" },
+    "copy-from": "string_floss"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "toothbrush_electric",
+    "name": { "str": "electric toothbrush" },
+    "copy-from": "toothbrush_electric"
   }
 ]

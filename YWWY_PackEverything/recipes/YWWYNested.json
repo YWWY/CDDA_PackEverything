@@ -56,30 +56,6 @@
     "autolearn": true,
     "flags": [ "BLIND_EASY" ],
 
-    "result": "ywwy_pack_protein_bar_evac",
-    "components": [ [ [ "protein_bar_evac", 10 ] ] ]
-  },
-  {
-    "type": "recipe",
-    "activity_level": "NO_EXERCISE",
-    "category": "CC_*",
-    "subcategory": "CSC_*_NESTED",
-    "reversible": true,
-    "autolearn": true,
-    "flags": [ "BLIND_EASY" ],
-
-    "result": "ywwy_pack_wild_herbs",
-    "components": [ [ [ "wild_herbs", 10 ] ] ]
-  },
-  {
-    "type": "recipe",
-    "activity_level": "NO_EXERCISE",
-    "category": "CC_*",
-    "subcategory": "CSC_*_NESTED",
-    "reversible": true,
-    "autolearn": true,
-    "flags": [ "BLIND_EASY" ],
-
     "result": "ywwy_pack_straw_pile",
     "components": [ [ [ "straw_pile", 10 ] ] ]
   },
@@ -166,5 +142,221 @@
 
     "result": "ywwy_pack_acetaminophen",
     "components": [ [ [ "acetaminophen", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_protein_bar_evac",
+    "components": [ [ [ "protein_bar_evac", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_wild_herbs",
+    "components": [ [ [ "wild_herbs", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_sugar",
+    "components": [ [ [ "sugar", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_tea_bag",
+    "components": [ [ [ "tea_bag", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_tea_green_bag",
+    "components": [ [ [ "tea_green_bag", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_tea_fruit_bag",
+    "components": [ [ [ "tea_fruit_bag", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_herbal_tea_bag",
+    "components": [ [ [ "herbal_tea_bag", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_tea_bag_dandelion",
+    "components": [ [ [ "tea_bag_dandelion", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_tea_bag_chamomile",
+    "components": [ [ [ "tea_bag_chamomile", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_coffee_raw",
+    "components": [ [ [ "coffee_raw", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_pepper",
+    "components": [ [ [ "pepper", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_curry_powder",
+    "components": [ [ [ "curry_powder", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_salt",
+    "components": [ [ [ "salt", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_tea_raw",
+    "components": [ [ [ "tea_raw", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_tea_green_raw",
+    "components": [ [ [ "tea_green_raw", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_sprinkles",
+    "components": [ [ [ "sprinkles", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_cinnamon",
+    "components": [ [ [ "cinnamon", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_thyme",
+    "components": [ [ [ "thyme", 10 ] ] ]
   }
 ]

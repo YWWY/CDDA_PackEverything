@@ -7,17 +7,13 @@
     "subcategory": "CSC_OTHER_MATERIALS",
     "name": "ywwy pack",
     "description": "ywwy pack.",
-    "skill_used": "fabrication",
-    "difficulty": 0,
     "nested_category_data": [
       "ywwy_pack_glass_shard",
       "ywwy_pack_splinter",
       "ywwy_pack_bone",
       "ywwy_pack_bone_human",
-      "ywwy_pack_wild_herbs",
-      "ywwy_pack_straw_pile",
       "ywwy_pack_bone_tainted",
-      "ywwy_pack_protein_bar_evac"
+      "ywwy_pack_straw_pile"
     ]
   },
   {
@@ -28,8 +24,6 @@
     "subcategory": "CSC_OTHER_MATERIALS",
     "name": "ywwy med pack",
     "description": "ywwy med pack.",
-    "skill_used": "fabrication",
-    "difficulty": 0,
     "nested_category_data": [
       "ywwy_pack_adhesive_bandages",
       "ywwy_pack_medical_gauze",
@@ -37,6 +31,35 @@
       "ywwy_pack_aspirin",
       "ywwy_pack_ibuprofen",
       "ywwy_pack_acetaminophen"
+    ]
+  },
+  {
+    "id": "ywwy_food_pack",
+    "type": "nested_category",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "name": "ywwy food pack",
+    "description": "ywwy food pack.",
+    "nested_category_data": [
+      "ywwy_pack_wild_herbs",
+      "ywwy_pack_protein_bar_evac",
+      "ywwy_pack_sugar",
+      "ywwy_pack_tea_bag",
+      "ywwy_pack_tea_green_bag",
+      "ywwy_pack_tea_fruit_bag",
+      "ywwy_pack_herbal_tea_bag",
+      "ywwy_pack_tea_bag_dandelion",
+      "ywwy_pack_tea_bag_chamomile",
+      "ywwy_pack_coffee_raw",
+      "ywwy_pack_pepper",
+      "ywwy_pack_curry_powder",
+      "ywwy_pack_salt",
+      "ywwy_pack_tea_raw",
+      "ywwy_pack_tea_green_raw",
+      "ywwy_pack_sprinkles",
+      "ywwy_pack_cinnamon",
+      "ywwy_pack_thyme"
     ]
   }
 ]

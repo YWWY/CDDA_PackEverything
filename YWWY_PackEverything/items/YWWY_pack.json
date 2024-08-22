@@ -53,14 +53,6 @@
     "type": "AMMO",
     "ammo_type": "components",
 
-    "id": "ywwy_pack_wild_herbs",
-    "name": { "str": "ywwy野生草药包" },
-    "copy-from": "ywwy_pack_abstrack"
-  },
-  {
-    "type": "AMMO",
-    "ammo_type": "components",
-
     "id": "ywwy_pack_bone_tainted",
     "name": { "str": "ywwy感染骨头包" },
     "copy-from": "ywwy_pack_abstrack"
@@ -69,8 +61,8 @@
     "type": "AMMO",
     "ammo_type": "components",
 
-    "id": "ywwy_pack_protein_bar_evac",
-    "name": { "str": "ywwy蛋白口粮包" },
+    "id": "ywwy_pack_straw_pile",
+    "name": { "str": "ywwy稻草堆包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -125,8 +117,144 @@
     "type": "AMMO",
     "ammo_type": "components",
 
-    "id": "ywwy_pack_straw_pile",
-    "name": { "str": "ywwy稻草堆包" },
+    "id": "ywwy_pack_wild_herbs",
+    "name": { "str": "ywwy野生草药包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_protein_bar_evac",
+    "name": { "str": "ywwy蛋白口粮包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_sugar",
+    "name": { "str": "ywwy糖包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_tea_bag",
+    "name": { "str": "ywwy tea_bag" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_tea_green_bag",
+    "name": { "str": "ywwy tea_green_bag" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_tea_fruit_bag",
+    "name": { "str": "ywwy tea_fruit_bag" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_herbal_tea_bag",
+    "name": { "str": "ywwy herbal_tea_bag" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_tea_bag_dandelion",
+    "name": { "str": "ywwy tea_bag_dandelion" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_tea_bag_chamomile",
+    "name": { "str": "ywwy tea_bag_chamomile" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_coffee_raw",
+    "name": { "str": "ywwy咖啡粉包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_pepper",
+    "name": { "str": "ywwy黑胡椒包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_curry_powder",
+    "name": { "str": "ywwy咖喱粉包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_salt",
+    "name": { "str": "ywwy盐包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_tea_raw",
+    "name": { "str": "ywwy红茶叶包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_tea_green_raw",
+    "name": { "str": "ywwy绿茶叶包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_sprinkles",
+    "name": { "str": "ywwy彩塘包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_cinnamon",
+    "name": { "str": "ywwy肉桂包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_thyme",
+    "name": { "str": "ywwy thyme" },
     "copy-from": "ywwy_pack_abstrack"
   }
 ]
