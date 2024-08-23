@@ -38,5 +38,61 @@
     "id": "cardboard",
     "name": { "str": "piece of cardboard" },
     "copy-from": "cardboard"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "cordage_6",
+    "name": { "str": "short cordage piece" },
+    "copy-from": "cordage_6"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "cordage_36",
+    "name": { "str": "long cordage piece" },
+    "copy-from": "cordage_36"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "string_6",
+    "name": { "str": "short string" },
+    "copy-from": "string_6"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "string_36",
+    "name": { "str": "long string" },
+    "copy-from": "string_36"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "cordage_6_leather",
+    "name": { "str": "short leather lace" },
+    "copy-from": "cordage_6_leather"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "cordage_36_leather",
+    "name": { "str": "long leather lace" },
+    "copy-from": "cordage_36_leather"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "wire",
+    "name": { "str": "wire" },
+    "copy-from": "wire"
   }
 ]

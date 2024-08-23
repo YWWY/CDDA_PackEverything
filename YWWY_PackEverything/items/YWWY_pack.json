@@ -22,7 +22,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_glass_shard",
-    "name": { "str": "ywwy玻璃碎片包" },
+    "name": { "str": "ywwy 玻璃碎片包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -30,7 +30,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_splinter",
-    "name": { "str": "ywwy碎木包" },
+    "name": { "str": "ywwy 碎木包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -38,7 +38,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_bone",
-    "name": { "str": "ywwy骨头包" },
+    "name": { "str": "ywwy 骨头包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -46,7 +46,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_bone_human",
-    "name": { "str": "ywwy人骨包" },
+    "name": { "str": "ywwy 人骨包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -54,7 +54,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_bone_tainted",
-    "name": { "str": "ywwy感染骨头包" },
+    "name": { "str": "ywwy 感染骨头包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -62,7 +62,31 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_straw_pile",
-    "name": { "str": "ywwy稻草堆包" },
+    "name": { "str": "ywwy 稻草堆包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_ladle",
+    "name": { "str": "ywwy 长柄勺包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_cotton_patchwork",
+    "name": { "str": "ywwy 棉布片包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_cotton_ball",
+    "name": { "str": "ywwy 棉花球" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -70,7 +94,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_adhesive_bandages",
-    "name": { "str": "ywwy创可贴包" },
+    "name": { "str": "ywwy 创可贴包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -78,7 +102,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_medical_gauze",
-    "name": { "str": "ywwy医用纱布包" },
+    "name": { "str": "ywwy 医用纱布包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -86,7 +110,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_bandages",
-    "name": { "str": "ywwy绷带包" },
+    "name": { "str": "ywwy 绷带包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -94,7 +118,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_aspirin",
-    "name": { "str": "ywwy阿司匹林包" },
+    "name": { "str": "ywwy 阿司匹林包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -102,7 +126,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_ibuprofen",
-    "name": { "str": "ywwy布洛芬包" },
+    "name": { "str": "ywwy 布洛芬包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -110,7 +134,47 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_acetaminophen",
-    "name": { "str": "ywwy对乙酰氨基酚包" },
+    "name": { "str": "ywwy 对乙酰氨基酚包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_eyedrops",
+    "name": { "str": "ywwy 生理盐水眼药水" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_alcohol_wipes",
+    "name": { "str": "ywwy 酒精湿巾" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_tums",
+    "name": { "str": "ywwy 抗酸片" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_vitamins",
+    "name": { "str": "ywwy 复合维生素" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_gummy_vitamins",
+    "name": { "str": "ywwy 维他命树脂糖" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -118,7 +182,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_wild_herbs",
-    "name": { "str": "ywwy野生草药包" },
+    "name": { "str": "ywwy 野生草药包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -126,7 +190,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_protein_bar_evac",
-    "name": { "str": "ywwy蛋白口粮包" },
+    "name": { "str": "ywwy 蛋白口粮包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -134,7 +198,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_sugar",
-    "name": { "str": "ywwy糖包" },
+    "name": { "str": "ywwy 糖包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -142,7 +206,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_tea_bag",
-    "name": { "str": "ywwy tea_bag" },
+    "name": { "str": "ywwy 红茶包包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -150,7 +214,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_tea_green_bag",
-    "name": { "str": "ywwy tea_green_bag" },
+    "name": { "str": "ywwy 绿茶包包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -158,7 +222,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_tea_fruit_bag",
-    "name": { "str": "ywwy tea_fruit_bag" },
+    "name": { "str": "ywwy 果茶包包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -166,7 +230,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_herbal_tea_bag",
-    "name": { "str": "ywwy herbal_tea_bag" },
+    "name": { "str": "ywwy 草药茶包包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -174,7 +238,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_tea_bag_dandelion",
-    "name": { "str": "ywwy tea_bag_dandelion" },
+    "name": { "str": "ywwy 蒲公英茶包包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -182,7 +246,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_tea_bag_chamomile",
-    "name": { "str": "ywwy tea_bag_chamomile" },
+    "name": { "str": "ywwy 甘菊茶包包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -190,7 +254,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_coffee_raw",
-    "name": { "str": "ywwy咖啡粉包" },
+    "name": { "str": "ywwy 咖啡粉包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -198,7 +262,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_pepper",
-    "name": { "str": "ywwy黑胡椒包" },
+    "name": { "str": "ywwy 黑胡椒包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -206,7 +270,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_curry_powder",
-    "name": { "str": "ywwy咖喱粉包" },
+    "name": { "str": "ywwy 咖喱粉包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -214,7 +278,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_salt",
-    "name": { "str": "ywwy盐包" },
+    "name": { "str": "ywwy 盐包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -222,7 +286,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_tea_raw",
-    "name": { "str": "ywwy红茶叶包" },
+    "name": { "str": "ywwy 红茶叶包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -230,7 +294,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_tea_green_raw",
-    "name": { "str": "ywwy绿茶叶包" },
+    "name": { "str": "ywwy 绿茶叶包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -238,7 +302,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_sprinkles",
-    "name": { "str": "ywwy彩塘包" },
+    "name": { "str": "ywwy 彩塘包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -246,7 +310,7 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_cinnamon",
-    "name": { "str": "ywwy肉桂包" },
+    "name": { "str": "ywwy 肉桂包" },
     "copy-from": "ywwy_pack_abstrack"
   },
   {
@@ -254,7 +318,23 @@
     "ammo_type": "components",
 
     "id": "ywwy_pack_thyme",
-    "name": { "str": "ywwy thyme" },
+    "name": { "str": "ywwy 百里香包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_seasoning_italian",
+    "name": { "str": "ywwy 意大利香料包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_seasoning_salt",
+    "name": { "str": "ywwy 调味盐包" },
     "copy-from": "ywwy_pack_abstrack"
   }
 ]

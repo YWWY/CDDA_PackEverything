@@ -592,5 +592,14 @@
     "id": "toothbrush_electric",
     "name": { "str": "electric toothbrush" },
     "copy-from": "toothbrush_electric"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "toothbrush_plain",
+    "name": { "str": "toothbrush" },
+    "copy-from": "toothbrush_plain"
   }
 ]

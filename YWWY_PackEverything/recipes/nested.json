@@ -13,7 +13,10 @@
       "ywwy_pack_bone",
       "ywwy_pack_bone_human",
       "ywwy_pack_bone_tainted",
-      "ywwy_pack_straw_pile"
+      "ywwy_pack_straw_pile",
+      "ywwy_pack_ladle",
+      "ywwy_pack_cotton_patchwork",
+      "ywwy_pack_cotton_ball"
     ]
   },
   {
@@ -30,7 +33,12 @@
       "ywwy_pack_bandages",
       "ywwy_pack_aspirin",
       "ywwy_pack_ibuprofen",
-      "ywwy_pack_acetaminophen"
+      "ywwy_pack_acetaminophen",
+      "ywwy_pack_eyedrops",
+      "ywwy_pack_alcohol_wipes",
+      "ywwy_pack_tums",
+      "ywwy_pack_vitamins",
+      "ywwy_pack_gummy_vitamins"
     ]
   },
   {
@@ -59,7 +67,9 @@
       "ywwy_pack_tea_green_raw",
       "ywwy_pack_sprinkles",
       "ywwy_pack_cinnamon",
-      "ywwy_pack_thyme"
+      "ywwy_pack_thyme",
+      "ywwy_pack_seasoning_italian",
+      "ywwy_pack_seasoning_salt"
     ]
   }
 ]

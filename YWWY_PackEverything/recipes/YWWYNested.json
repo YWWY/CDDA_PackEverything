@@ -80,6 +80,42 @@
     "autolearn": true,
     "flags": [ "BLIND_EASY" ],
 
+    "result": "ywwy_pack_ladle",
+    "components": [ [ [ "ladle", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_cotton_patchwork",
+    "components": [ [ [ "cotton_patchwork", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_cotton_ball",
+    "components": [ [ [ "cotton_ball", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
     "result": "ywwy_pack_adhesive_bandages",
     "components": [ [ [ "adhesive_bandages", 10 ] ] ]
   },
@@ -142,6 +178,66 @@
 
     "result": "ywwy_pack_acetaminophen",
     "components": [ [ [ "acetaminophen", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_eyedrops",
+    "components": [ [ [ "eyedrops", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_alcohol_wipes",
+    "components": [ [ [ "alcohol_wipes", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_tums",
+    "components": [ [ [ "tums", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_vitamins",
+    "components": [ [ [ "vitamins", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_gummy_vitamins",
+    "components": [ [ [ "gummy_vitamins", 10 ] ] ]
   },
   {
     "type": "recipe",
@@ -358,5 +454,29 @@
 
     "result": "ywwy_pack_thyme",
     "components": [ [ [ "thyme", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_seasoning_italian",
+    "components": [ [ [ "seasoning_italian", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_seasoning_salt",
+    "components": [ [ [ "seasoning_salt", 10 ] ] ]
   }
 ]
