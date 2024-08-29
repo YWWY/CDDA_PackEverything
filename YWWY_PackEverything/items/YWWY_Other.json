@@ -601,5 +601,23 @@
     "id": "toothbrush_plain",
     "name": { "str": "toothbrush" },
     "copy-from": "toothbrush_plain"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "menstrual_pad",
+    "name": { "str": "menstrual pad" },
+    "copy-from": "menstrual_pad"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "tampon",
+    "name": { "str": "tampon" },
+    "copy-from": "tampon"
   }
 ]

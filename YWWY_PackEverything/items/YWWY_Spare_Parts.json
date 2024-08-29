@@ -94,5 +94,13 @@
     "id": "wire",
     "name": { "str": "wire" },
     "copy-from": "wire"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "napkin",
+    "name": { "str": "napkin" },
+    "copy-from": "napkin"
   }
 ]

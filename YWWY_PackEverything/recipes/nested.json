@@ -38,7 +38,12 @@
       "ywwy_pack_alcohol_wipes",
       "ywwy_pack_tums",
       "ywwy_pack_vitamins",
-      "ywwy_pack_gummy_vitamins"
+      "ywwy_pack_gummy_vitamins",
+      "ywwy_pack_cig",
+      "ywwy_pack_codeine",
+      "ywwy_pack_antibiotics",
+      "ywwy_pack_prozac",
+      "ywwy_pack_calcium_tablet"
     ]
   },
   {
@@ -69,7 +74,11 @@
       "ywwy_pack_cinnamon",
       "ywwy_pack_thyme",
       "ywwy_pack_seasoning_italian",
-      "ywwy_pack_seasoning_salt"
+      "ywwy_pack_seasoning_salt",
+      "ywwy_pack_horseradish",
+      "ywwy_pack_milk_powder",
+      "ywwy_pack_chilly-p",
+      "ywwy_pack_garlic_powder"
     ]
   }
 ]

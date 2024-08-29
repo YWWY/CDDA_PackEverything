@@ -181,6 +181,46 @@
     "type": "AMMO",
     "ammo_type": "components",
 
+    "id": "ywwy_pack_cig",
+    "name": { "str": "ywwy 香烟包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_codeine",
+    "name": { "str": "ywwy 可待因包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_antibiotics",
+    "name": { "str": "ywwy 抗生素包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_prozac",
+    "name": { "str": "ywwy 抗抑郁药包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_calcium_tablet",
+    "name": { "str": "ywwy 钙片包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
     "id": "ywwy_pack_wild_herbs",
     "name": { "str": "ywwy 野生草药包" },
     "copy-from": "ywwy_pack_abstrack"
@@ -335,6 +375,38 @@
 
     "id": "ywwy_pack_seasoning_salt",
     "name": { "str": "ywwy 调味盐包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_horseradish",
+    "name": { "str": "ywwy 辣根包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_milk_powder",
+    "name": { "str": "ywwy 奶粉包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_chilly-p",
+    "name": { "str": "ywwy 辣椒粉包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_garlic_powder",
+    "name": { "str": "ywwy 大蒜粉包" },
     "copy-from": "ywwy_pack_abstrack"
   }
 ]
