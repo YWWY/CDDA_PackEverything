@@ -102,5 +102,109 @@
     "id": "napkin",
     "name": { "str": "napkin" },
     "copy-from": "napkin"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "amplifier",
+    "name": { "str": "amplifier circuit" },
+    "copy-from": "amplifier"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "element",
+    "name": { "str": "heating element" },
+    "copy-from": "element"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "crude_heating_element",
+    "name": { "str": "crude heating element" },
+    "copy-from": "crude_heating_element"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "light_bulb",
+    "name": { "str": "light bulb" },
+    "copy-from": "light_bulb"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "motor_micro",
+    "name": { "str": "micro electric motor" },
+    "copy-from": "motor_micro"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "pilot_light",
+    "name": { "str": "pilot light" },
+    "copy-from": "pilot_light"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "power_supply",
+    "name": { "str": "power converter" },
+    "copy-from": "power_supply"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "processor",
+    "name": { "str": "processor board" },
+    "copy-from": "processor"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "RAM",
+    "name": { "str": "RAM" },
+    "copy-from": "RAM"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "scrap_aluminum",
+    "name": { "str": "scrap aluminum" },
+    "copy-from": "scrap_aluminum"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "receiver",
+    "name": { "str": "signal receiver" },
+    "copy-from": "receiver"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "large_lcd_screen",
+    "name": { "str": "large LCD screen" },
+    "copy-from": "large_lcd_screen"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "small_lcd_screen",
+    "name": { "str": "small LCD screen" },
+    "copy-from": "small_lcd_screen"
   }
 ]

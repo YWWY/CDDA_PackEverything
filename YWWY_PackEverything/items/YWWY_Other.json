@@ -619,5 +619,95 @@
     "id": "tampon",
     "name": { "str": "tampon" },
     "copy-from": "tampon"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "scrap_cotton",
+    "name": { "str": "cotton scraps" },
+    "copy-from": "scrap_cotton"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "scrap_faux_fur",
+    "name": { "str": "faux fur scraps" },
+    "copy-from": "scrap_faux_fur"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "scrap_felt",
+    "name": { "str": "felt scraps" },
+    "copy-from": "scrap_felt"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "scrap_fur",
+    "name": { "str": "fur scraps" },
+    "copy-from": "scrap_fur"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "scrap_kevlar",
+    "name": { "str": "Kevlar scraps" },
+    "copy-from": "scrap_kevlar"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "scrap_leather",
+    "name": { "str": "leather scraps" },
+    "copy-from": "scrap_leather"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "scrap_lycra",
+    "name": { "str": "Lycra scraps" },
+    "copy-from": "scrap_lycra"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "scrap_nylon",
+    "name": { "str": "synthetic fabric scraps" },
+    "copy-from": "scrap_nylon"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "scrap_nomex",
+    "name": { "str": "Nomex scraps" },
+    "copy-from": "scrap_nomex"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "scrap_worthless",
+    "name": { "str": "scraps of carpet" },
+    "copy-from": "scrap_worthless"
   }
 ]
