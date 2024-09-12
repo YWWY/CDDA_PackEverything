@@ -709,5 +709,14 @@
     "id": "scrap_worthless",
     "name": { "str": "scraps of carpet" },
     "copy-from": "scrap_worthless"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+    "category": "other",
+
+    "id": "leaves",
+    "name": { "str": "handful of leaves" },
+    "copy-from": "leaves"
   }
 ]

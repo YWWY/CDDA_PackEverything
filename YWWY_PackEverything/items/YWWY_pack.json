@@ -93,6 +93,27 @@
     "type": "AMMO",
     "ammo_type": "components",
 
+    "id": "ywwy_pack_sheet_cotton",
+    "name": { "str": "ywwy 棉布面料包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_sheet_cotton_patchwork",
+    "name": { "str": "ywwy 棉布拼布面料包" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+
+
+
+
+
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
     "id": "ywwy_pack_adhesive_bandages",
     "name": { "str": "ywwy 创可贴包" },
     "copy-from": "ywwy_pack_abstrack"
@@ -225,6 +246,11 @@
     "name": { "str": "ywwy 野生草药包" },
     "copy-from": "ywwy_pack_abstrack"
   },
+
+
+
+
+
   {
     "type": "AMMO",
     "ammo_type": "components",

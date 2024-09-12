@@ -206,5 +206,53 @@
     "id": "small_lcd_screen",
     "name": { "str": "small LCD screen" },
     "copy-from": "small_lcd_screen"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "chitin_piece",
+    "name": { "str": "chunk of chitin" },
+    "copy-from": "chitin_piece"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "endochitin",
+    "name": { "str": "strand of endochitin" },
+    "copy-from": "endochitin"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "cu_pipe",
+    "name": { "str": "copper tubing" },
+    "copy-from": "cu_pipe"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "wooden_post",
+    "name": { "str": "wooden post" },
+    "copy-from": "wooden_post"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "wooden_post_short",
+    "name": { "str": "short wooden post" },
+    "copy-from": "wooden_post_short"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "wooden_post_long",
+    "name": { "str": "long wooden post" },
+    "copy-from": "wooden_post_long"
   }
 ]
