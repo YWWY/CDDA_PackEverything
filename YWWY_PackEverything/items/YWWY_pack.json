@@ -434,5 +434,29 @@
     "id": "ywwy_pack_garlic_powder",
     "name": { "str": "ywwy 大蒜粉包" },
     "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_artificial_sweetener",
+    "name": { "str": "ywwy 人工甜味剂" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_yeast",
+    "name": { "str": "ywwy 酵母" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_pack_cigar",
+    "name": { "str": "ywwy 雪茄" },
+    "copy-from": "ywwy_pack_abstrack"
   }
 ]

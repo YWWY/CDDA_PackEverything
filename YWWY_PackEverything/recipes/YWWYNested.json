@@ -610,5 +610,41 @@
 
     "result": "ywwy_pack_garlic_powder",
     "components": [ [ [ "garlic_powder", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_artificial_sweetener",
+    "components": [ [ [ "artificial_sweetener", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_yeast",
+    "components": [ [ [ "yeast", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_pack_cigar",
+    "components": [ [ [ "cigar", 10 ] ] ]
   }
 ]
