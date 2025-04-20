@@ -105,11 +105,6 @@
     "name": { "str": "ywwy 棉布拼布面料包" },
     "copy-from": "ywwy_pack_abstrack"
   },
-
-
-
-
-
   {
     "type": "AMMO",
     "ammo_type": "components",
@@ -246,11 +241,6 @@
     "name": { "str": "ywwy 野生草药包" },
     "copy-from": "ywwy_pack_abstrack"
   },
-
-
-
-
-
   {
     "type": "AMMO",
     "ammo_type": "components",
@@ -457,6 +447,78 @@
 
     "id": "ywwy_pack_cigar",
     "name": { "str": "ywwy 雪茄" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_p_fork",
+    "name": { "str": "ywwy_p_fork" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_p_plastic_fork",
+    "name": { "str": "ywwy 塑料叉子" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_p_spoon",
+    "name": { "str": "ywwy_p_spoon" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_p_plastic_spoon",
+    "name": { "str": "ywwy 塑料勺子" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_p_plastic_spoon_kids",
+    "name": { "str": "ywwy_p_plastic_spoon_kids" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_p_knife_butter",
+    "name": { "str": "ywwy_p_knife_butter" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_p_plastic_knife",
+    "name": { "str": "ywwy 塑料小刀" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_p_plastic_straw",
+    "name": { "str": "ywwy_p_plastic_straw" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_p_corkscrew",
+    "name": { "str": "ywwy_p_corkscrew" },
     "copy-from": "ywwy_pack_abstrack"
   }
 ]
