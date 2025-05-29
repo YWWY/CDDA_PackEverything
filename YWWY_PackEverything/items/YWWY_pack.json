@@ -560,5 +560,29 @@
     "id": "ywwy_p_2x4",
     "name": { "str": "ywwy 木板" },
     "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_p_menstrual_pad",
+    "name": { "str": "ywwy 月经垫" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_p_tampon",
+    "name": { "str": "ywwy 卫生棉条" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "AMMO",
+    "ammo_type": "components",
+
+    "id": "ywwy_p_toilet_paper",
+    "name": { "str": "ywwy 厕纸" },
+    "copy-from": "ywwy_pack_abstrack"
   }
 ]

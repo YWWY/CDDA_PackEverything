@@ -814,5 +814,41 @@
 
     "result": "ywwy_p_2x4",
     "components": [ [ [ "2x4", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_p_menstrual_pad",
+    "components": [ [ [ "menstrual_pad", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_p_tampon",
+    "components": [ [ [ "tampon", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_p_toilet_paper",
+    "components": [ [ [ "toilet_paper", 10 ] ] ]
   }
 ]
