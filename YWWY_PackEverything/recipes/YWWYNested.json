@@ -850,5 +850,17 @@
 
     "result": "ywwy_p_toilet_paper",
     "components": [ [ [ "toilet_paper", 10 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_*",
+    "subcategory": "CSC_*_NESTED",
+    "reversible": true,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+
+    "result": "ywwy_p_box_small",
+    "components": [ [ [ "box_small", 10 ] ] ]
   }
 ]

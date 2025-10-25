@@ -2,7 +2,8 @@
   {
     "id": "ywwy_pack_abstrack",
 
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
     "category": "other",
 
@@ -18,7 +19,8 @@
     "color": "light_red"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_glass_shard",
@@ -26,7 +28,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_splinter",
@@ -34,7 +37,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_bone",
@@ -42,7 +46,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_bone_human",
@@ -50,7 +55,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_bone_tainted",
@@ -58,7 +64,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_straw_pile",
@@ -66,7 +73,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_ladle",
@@ -74,7 +82,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_cotton_patchwork",
@@ -82,7 +91,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_cotton_ball",
@@ -90,7 +100,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_sheet_cotton",
@@ -98,7 +109,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_sheet_cotton_patchwork",
@@ -106,7 +118,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_adhesive_bandages",
@@ -114,7 +127,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_medical_gauze",
@@ -122,7 +136,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_bandages",
@@ -130,7 +145,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_aspirin",
@@ -138,7 +154,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_ibuprofen",
@@ -146,7 +163,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_acetaminophen",
@@ -154,7 +172,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_eyedrops",
@@ -162,7 +181,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_alcohol_wipes",
@@ -170,7 +190,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_tums",
@@ -178,7 +199,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_vitamins",
@@ -186,7 +208,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_gummy_vitamins",
@@ -194,7 +217,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_cig",
@@ -202,7 +226,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_codeine",
@@ -210,7 +235,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_antibiotics",
@@ -218,7 +244,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_prozac",
@@ -226,7 +253,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_calcium_tablet",
@@ -234,7 +262,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_wild_herbs",
@@ -242,7 +271,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_protein_bar_evac",
@@ -250,7 +280,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_sugar",
@@ -258,7 +289,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_tea_bag",
@@ -266,7 +298,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_tea_green_bag",
@@ -274,7 +307,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_tea_fruit_bag",
@@ -282,7 +316,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_herbal_tea_bag",
@@ -290,7 +325,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_tea_bag_dandelion",
@@ -298,7 +334,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_tea_bag_chamomile",
@@ -306,7 +343,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_coffee_raw",
@@ -314,7 +352,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_pepper",
@@ -322,7 +361,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_curry_powder",
@@ -330,7 +370,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_salt",
@@ -338,7 +379,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_tea_raw",
@@ -346,7 +388,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_tea_green_raw",
@@ -354,7 +397,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_sprinkles",
@@ -362,7 +406,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_cinnamon",
@@ -370,7 +415,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_thyme",
@@ -378,7 +424,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_seasoning_italian",
@@ -386,7 +433,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_seasoning_salt",
@@ -394,7 +442,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_horseradish",
@@ -402,7 +451,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_milk_powder",
@@ -410,7 +460,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_chilly-p",
@@ -418,7 +469,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_garlic_powder",
@@ -426,7 +478,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_artificial_sweetener",
@@ -434,7 +487,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_yeast",
@@ -442,7 +496,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_pack_cigar",
@@ -450,7 +505,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_p_fork",
@@ -458,7 +514,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_p_plastic_fork",
@@ -466,7 +523,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_p_spoon",
@@ -474,7 +532,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_p_plastic_spoon",
@@ -482,7 +541,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_p_plastic_spoon_kids",
@@ -490,7 +550,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_p_knife_butter",
@@ -498,7 +559,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_p_plastic_knife",
@@ -506,7 +568,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_p_plastic_straw",
@@ -514,7 +577,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_p_corkscrew",
@@ -522,7 +586,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_p_bag_plastic",
@@ -530,7 +595,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_p_bowl_plastic",
@@ -538,7 +604,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_p_ceramic_shard",
@@ -546,7 +613,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_p_leaves",
@@ -554,7 +622,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_p_2x4",
@@ -562,7 +631,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_p_menstrual_pad",
@@ -570,7 +640,8 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_p_tampon",
@@ -578,11 +649,21 @@
     "copy-from": "ywwy_pack_abstrack"
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
     "ammo_type": "components",
 
     "id": "ywwy_p_toilet_paper",
     "name": { "str": "ywwy 厕纸" },
+    "copy-from": "ywwy_pack_abstrack"
+  },
+  {
+    "type": "ITEM",
+    "subtypes": [ "AMMO" ],
+    "ammo_type": "components",
+
+    "id": "ywwy_p_box_small",
+    "name": { "str": "ywwy 小纸板盒" },
     "copy-from": "ywwy_pack_abstrack"
   }
 ]
